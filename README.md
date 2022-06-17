@@ -7,7 +7,7 @@
     
 ## Description
 ```
-This application allows you to use JS models and routes to allow a business owner to view and update their inventory of products.
+This application uses JS/dotenv/express/mysql2/sequelize models and routes to allow a business owner to view and update their inventory of products.
 ```
 ## Installation
 ```
