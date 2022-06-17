@@ -23,6 +23,7 @@ This application uses JS/dotenv/express/mysql2/sequelize models and routes to al
 ```
 Watch the youtube video of the application being used linked below
 ```
+[Youtube Link](https://youtu.be/CiAYrZl6bUY)
 
 
 
